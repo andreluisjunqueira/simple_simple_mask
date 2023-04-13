@@ -1,6 +1,6 @@
 {
   "name": "@andrejunqueira/simple_simple_mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple mask using only js to mask any string text",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,14 @@
   ],
   "author": "André Junqueira",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreluisjunqueira/simple_simple_mask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreluisjunqueira/simple_simple_mask/issues"
+  },
+  "homepage": "https://github.com/andreluisjunqueira/simple_simple_mask#readme",
   "dependencies": {
     "typescript": "^5.0.4"
   }
